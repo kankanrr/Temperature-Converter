@@ -1,0 +1,20 @@
+C:\Class\Fall2020\MIS310\Projects\3-5 Temperature Converter\3-5 Temperature Converter\obj\Debug\3-5 Temperature Converter.csprojAssemblyReference.cache
+C:\Class\Fall2020\MIS310\Projects\3-5 Temperature Converter\3-5 Temperature Converter\obj\Debug\_3_5_Temperature_Converter.Properties.Resources.resources
+C:\Class\Fall2020\MIS310\Projects\3-5 Temperature Converter\3-5 Temperature Converter\obj\Debug\3-5 Temperature Converter.csproj.GenerateResource.cache
+C:\Class\Fall2020\MIS310\Projects\3-5 Temperature Converter\3-5 Temperature Converter\obj\Debug\3-5 Temperature Converter.csproj.CoreCompileInputs.cache
+C:\Class\Fall2020\MIS310\Projects\3-5 Temperature Converter\3-5 Temperature Converter\bin\Debug\3-5 Temperature Converter.exe.config
+C:\Class\Fall2020\MIS310\Projects\3-5 Temperature Converter\3-5 Temperature Converter\bin\Debug\3-5 Temperature Converter.exe
+C:\Class\Fall2020\MIS310\Projects\3-5 Temperature Converter\3-5 Temperature Converter\bin\Debug\3-5 Temperature Converter.pdb
+C:\Class\Fall2020\MIS310\Projects\3-5 Temperature Converter\3-5 Temperature Converter\obj\Debug\_3_5_Temperature_Converter.Form1.resources
+C:\Class\Fall2020\MIS310\Projects\3-5 Temperature Converter\3-5 Temperature Converter\obj\Debug\3-5 Temperature Converter.exe
+C:\Class\Fall2020\MIS310\Projects\3-5 Temperature Converter\3-5 Temperature Converter\obj\Debug\3-5 Temperature Converter.pdb
+C:\Users\BluKnight14\OneDrive - CCSU\ClassApps\3-5 Temperature Converter\3-5 Temperature Converter\bin\Debug\3-5 Temperature Converter.exe.config
+C:\Users\BluKnight14\OneDrive - CCSU\ClassApps\3-5 Temperature Converter\3-5 Temperature Converter\bin\Debug\3-5 Temperature Converter.exe
+C:\Users\BluKnight14\OneDrive - CCSU\ClassApps\3-5 Temperature Converter\3-5 Temperature Converter\bin\Debug\3-5 Temperature Converter.pdb
+C:\Users\BluKnight14\OneDrive - CCSU\ClassApps\3-5 Temperature Converter\3-5 Temperature Converter\obj\Debug\3-5 Temperature Converter.csproj.AssemblyReference.cache
+C:\Users\BluKnight14\OneDrive - CCSU\ClassApps\3-5 Temperature Converter\3-5 Temperature Converter\obj\Debug\_3_5_Temperature_Converter.Form1.resources
+C:\Users\BluKnight14\OneDrive - CCSU\ClassApps\3-5 Temperature Converter\3-5 Temperature Converter\obj\Debug\_3_5_Temperature_Converter.Properties.Resources.resources
+C:\Users\BluKnight14\OneDrive - CCSU\ClassApps\3-5 Temperature Converter\3-5 Temperature Converter\obj\Debug\3-5 Temperature Converter.csproj.GenerateResource.cache
+C:\Users\BluKnight14\OneDrive - CCSU\ClassApps\3-5 Temperature Converter\3-5 Temperature Converter\obj\Debug\3-5 Temperature Converter.csproj.CoreCompileInputs.cache
+C:\Users\BluKnight14\OneDrive - CCSU\ClassApps\3-5 Temperature Converter\3-5 Temperature Converter\obj\Debug\3-5 Temperature Converter.exe
+C:\Users\BluKnight14\OneDrive - CCSU\ClassApps\3-5 Temperature Converter\3-5 Temperature Converter\obj\Debug\3-5 Temperature Converter.pdb
